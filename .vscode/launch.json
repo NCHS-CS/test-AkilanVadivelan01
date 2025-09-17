@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "test-AkilanVadivelan01_2f4c3148"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "test-AkilanVadivelan01_2f4c3148"
+        },
+        {
+            "type": "java",
+            "name": "javasmth",
+            "request": "launch",
+            "mainClass": "javasmth",
+            "projectName": "test-AkilanVadivelan01_2f4c3148"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
